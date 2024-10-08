@@ -19,3 +19,4 @@ def create_slogan(name: str) -> str:
 
 assert create_slogan("Steve") == "Steve drinks * in his brand new *!"
 print(create_slogan("Steve"))
+

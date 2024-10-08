@@ -27,3 +27,4 @@ def square_all(*args):
 # Testing
 add(4, 5)
 square_all(2, 3, 4)
+
