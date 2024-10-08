@@ -11,3 +11,4 @@ class Person:
 # Example usage
 person1 = Person("Carl", "Johnson", 26)
 person1.talk()
+

@@ -10,3 +10,4 @@ class Dog:
 
 dog1 = Dog(5)
 print(dog1.human_age())  # >> Output: 35 (5 * 7)
+
