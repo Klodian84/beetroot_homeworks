@@ -13,7 +13,11 @@ while counter < 10:
     counter += 1
     print(random_numbers1, random_numbers2)
 
-for number in random_numbers1 and random_numbers2:
+for number in random_numbers1:
     if number not in uniques:
         uniques.append(number)
-        print(uniques)
+
+for number in random_numbers2:
+    uniques.append(number)
+
+    print(uniques)
