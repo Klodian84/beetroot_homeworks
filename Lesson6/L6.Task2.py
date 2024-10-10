@@ -4,6 +4,7 @@ import random
 
 random_numbers1 = []
 random_numbers2 = []
+
 uniques = []
 counter = 0
 
